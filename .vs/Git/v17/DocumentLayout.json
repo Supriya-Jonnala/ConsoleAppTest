@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\supriya.jonnala\\source\\repos\\Git\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{DB3A0698-F3A4-4219-8E1A-543FC83BF53E}|Git\\Git.csproj|c:\\users\\supriya.jonnala\\source\\repos\\git\\git\\operations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DB3A0698-F3A4-4219-8E1A-543FC83BF53E}|Git\\Git.csproj|solutionrelative:git\\operations.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{DB3A0698-F3A4-4219-8E1A-543FC83BF53E}|Git\\Git.csproj|c:\\users\\supriya.jonnala\\source\\repos\\git\\git\\interface1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{DB3A0698-F3A4-4219-8E1A-543FC83BF53E}|Git\\Git.csproj|solutionrelative:git\\interface1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -31,6 +35,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "operations.cs",
+              "DocumentMoniker": "C:\\Users\\supriya.jonnala\\source\\repos\\Git\\Git\\operations.cs",
+              "RelativeDocumentMoniker": "Git\\operations.cs",
+              "ToolTip": "C:\\Users\\supriya.jonnala\\source\\repos\\Git\\Git\\operations.cs",
+              "RelativeToolTip": "Git\\operations.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-07T10:06:53.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Interface1.cs",
               "DocumentMoniker": "C:\\Users\\supriya.jonnala\\source\\repos\\Git\\Git\\Interface1.cs",
               "RelativeDocumentMoniker": "Git\\Interface1.cs",
@@ -43,7 +60,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\supriya.jonnala\\source\\repos\\Git\\Git\\Class1.cs",
               "RelativeDocumentMoniker": "Git\\Class1.cs",
@@ -51,12 +68,11 @@
               "RelativeToolTip": "Git\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-07T09:55:50.302Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-07T09:55:50.302Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\supriya.jonnala\\source\\repos\\Git\\Git\\Program.cs",
               "RelativeDocumentMoniker": "Git\\Program.cs",
